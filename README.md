@@ -41,4 +41,4 @@ python -m streamlit run app.py
 
 ## Limitations
 The results are based on synthetic data and should not be interpreted
-as validated predictions of real hospital cash flow."# hospital-cash-flow-predictor" 
+as validated predictions of real hospital cash flow.
