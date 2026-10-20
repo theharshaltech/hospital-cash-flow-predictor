@@ -1,5 +1,8 @@
 # Hospital Cash-Flow Predictor
 
+## Dashboard Preview
+
+![Hospital Cash-Flow Predictor Dashboard](images/dashboard.png)
 ## Overview
 A Python-based dashboard for analyzing hospital insurance claims,
 monitoring pending claims, and identifying claims that may experience
